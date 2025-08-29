@@ -1,7 +1,7 @@
 # YOLO-Farm-Vision
 This project uses a YOLO model to track cows and automatically capture clear, high-quality images at the perfect moment. These images are ideal for health monitoring and herd management.
 # YOLO-based Cow Detection and Tracking
-
+> An intelligent system that automatically finds the perfect moment to capture high-quality images for health analysis.
 This project utilizes a custom-trained YOLOv11 model to detect and track cows in video streams. It provides two distinct scripts for different camera angles and scenarios: one for detecting cows crossing a vertical line, and another for tracking them within a horizontal zone. The project also includes the necessary code to train the model using a custom dataset from Roboflow.
 
 ## Features
